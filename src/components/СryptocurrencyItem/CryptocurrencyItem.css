@@ -1,0 +1,25 @@
+.item-wrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 650px;
+}
+
+.item-wrapper div {
+  min-width: 300px;
+  margin-bottom: 10px;
+}
+
+p:not(last-child) {
+  margin-bottom: 5px;
+}
+
+.link:active,
+.link:hover,
+.link {
+  text-decoration: none;
+  color: #000;
+}
+
+span {
+  font-weight: 600;
+}

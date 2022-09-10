@@ -1,0 +1,20 @@
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapper-header {
+  padding: 15px;
+}
+
+.wrapper-main {
+  padding: 30px 130px;
+  display: flex;
+  justify-content: center;
+}
+
+hr {
+  width: 100%;
+  padding: 0;
+  color: #CCCCCC;
+}
